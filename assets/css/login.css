@@ -49,9 +49,29 @@ body {
 
 .layui-form {
     padding: 0 10px;
+<<<<<<< HEAD
 }
 
 .links {
     display: flex;
     justify-content: flex-end;
+=======
+    
+}
+.layui-form-item {
+    
+    position: relative;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
+.layui-icon{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.layui-form-item .layui-input{
+    padding-left: 32px;
+>>>>>>> login
 }
